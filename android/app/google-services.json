@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "98610021883",
+    "firebase_url": "https://europe-express-default-rtdb.firebaseio.com",
+    "project_id": "europe-express",
+    "storage_bucket": "europe-express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98610021883:android:055486e37d2a42645b375e",
+        "android_client_info": {
+          "package_name": "com.asset.digital.europe.express"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98610021883-4cht4ftpop179al0fan1cqtnqrg93ae0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDJiUnU4DQoJMuEuUkSgQR0VenNmYEg2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98610021883-4cht4ftpop179al0fan1cqtnqrg93ae0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98610021883-46c34aes7mssfalanc4880sakfu8saqi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asset.digital.europe.express"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
